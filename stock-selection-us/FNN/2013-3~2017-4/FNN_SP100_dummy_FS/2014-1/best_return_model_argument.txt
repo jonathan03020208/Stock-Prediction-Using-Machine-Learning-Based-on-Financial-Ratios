@@ -1,0 +1,6 @@
+number of neurons in the first hidden layer: 20
+number of neurons in the second hidden layer: 10
+number of neurons in the third hidden layer: 15
+lr=0.0001
+mse:0.009028
+return:1.524173
