@@ -1,0 +1,2 @@
+#python train_RF.py from 2019-3 to 2022-1
+python train_RF.py 2019-3;python train_RF.py 2019-4;python train_RF.py 2020-1;python train_RF.py 2020-2;python train_RF.py 2020-3;python train_RF.py 2020-4;python train_RF.py 2021-1;python train_RF.py 2021-2;python train_RF.py 2021-3;python train_RF.py 2021-4;python train_RF.py 2022-1;
